@@ -8,9 +8,7 @@ pip install selenium
 ## 2º: Webdriver
 In the line "driver = webdriver.Edge()", choose your webdriver, you can replace it with Chrome or Firefox, however, you must download the webdriver to your python folder and have the browser installed on your pc
 
-## 3º: Download this repository
-
-## 4º: Execute
+## 3º: Download this repository and Execute
 Run the file and follow the instructions
 Remember: we are not sure about ban on whatsapp, so use it responsibly.
 
